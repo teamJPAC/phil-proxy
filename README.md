@@ -1,2 +1,2 @@
-# phil-proxy
-Proxy server for Phil Kessel
+# additional-information-proxy
+proxy for Zill-Woah!
